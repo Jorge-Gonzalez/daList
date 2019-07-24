@@ -3,7 +3,7 @@
 ## Todo List PWA using todo txt format
 
 This is a todo list progressive web app that intend to be simple and modern.
-I am using Preact Redux Bundler PWA Kit scaffold.
+I am using Preact, Redux Bundler, Stylable.
 
 ## CLI Commands
 

@@ -6,7 +6,7 @@ import { Box } from '@components/primitives'
 const App = ({ doUpdateUrl, route }) => {
   const Page = route
   return (
-    <Box onClick={navHelper(doUpdateUrl)}>
+    <Box bg="gray" onClick={navHelper(doUpdateUrl)}>
       <Page />
     </Box>
   )
